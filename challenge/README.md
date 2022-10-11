@@ -10,7 +10,7 @@ PostgresSQL (pgAdmin 4) was used to determine how many employees a given departm
 
 * Senior Engineers will be the single greatest group of staff members to replace with nearly 26000 individuals
 
-![Retirement by Title](C:\Users\kelle\Desktop\Bootcamp\Pewlett-Hackard_Analysis\Challenge\retirement_titles_image1 "Count of Retiring Employees by Title")
+![Retirement Count by Title](https://github.com/kelmo974/Pewlett-Hackard_Analysis/blob/main/challenge/retirement_titles_image1.PNG)
 
 * 1940 employees qualify for the mentorship program - this is only approximately 2% of the individuals needed to fill all the positions set to be opening during the 'silver tsunami'. 
 
